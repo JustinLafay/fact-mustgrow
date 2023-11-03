@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T04:15:46.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VZK-6GZzpSnqLNWALr--" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T04:58:50.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OwB2ZuWpHdmDm9NAnauB" version="22.0.8" type="github">
   <diagram name="general diagram" id="4iD4V9WwAEVz8vOjmTNL">
     <mxGraphModel dx="1050" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xNJlmnoBQkDoSgVuBGSP-1" value="iron" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="640" width="90" height="60" as="geometry" />
+        <mxCell id="xNJlmnoBQkDoSgVuBGSP-1" value="iron" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="660" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNJlmnoBQkDoSgVuBGSP-2" value="copper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="640" width="80" height="60" as="geometry" />
+        <mxCell id="xNJlmnoBQkDoSgVuBGSP-2" value="copper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="660" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNJlmnoBQkDoSgVuBGSP-3" value="oil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="640" width="76.5" height="60" as="geometry" />
+        <mxCell id="xNJlmnoBQkDoSgVuBGSP-3" value="oil" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="660" width="76.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNJlmnoBQkDoSgVuBGSP-5" value="coal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="640" width="70" height="60" as="geometry" />
+        <mxCell id="xNJlmnoBQkDoSgVuBGSP-5" value="coal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="660" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNJlmnoBQkDoSgVuBGSP-8" value="uranium" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="640" width="70" height="60" as="geometry" />
+        <mxCell id="xNJlmnoBQkDoSgVuBGSP-8" value="uranium" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="660" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNJlmnoBQkDoSgVuBGSP-9" value="stone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="640" width="70" height="60" as="geometry" />
+        <mxCell id="xNJlmnoBQkDoSgVuBGSP-9" value="stone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="660" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
